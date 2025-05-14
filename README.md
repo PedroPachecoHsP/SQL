@@ -58,7 +58,7 @@ CREATE TABLE funcionario
 
 INSERT INTO funcionario (id_funcionario,nome, salario)
 VALUES
-(1, 'Pedro', 100);
+(1, 'Joao', 100);
 
 --------------------------------------------------------------------------------------------------
 
