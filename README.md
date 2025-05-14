@@ -71,7 +71,7 @@ CREATE TABLE clientes
 
 INSERT INTO clientes (id_cliente, nome_cliente, email)
 VALUES
-(1, 'maria', 'maria@gmail.com');
+(1, 'maria', 'maria@(Qualquer Plataforma de Envio de Emails).com');
 
 --------------------------------------------------------------------------------------------------
 
